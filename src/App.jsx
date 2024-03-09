@@ -48,6 +48,7 @@ const App = () => {
               <View style={styles.listIcon}>
                 <Brain width={17} height={17} fill={Colors.AX_White} />
               </View>
+              <Text>jhkfs</Text>
             </View>
           </View>
         </View>
